@@ -1,6 +1,6 @@
 //
 //  word1.cpp
-//  project2b
+//  Advanced Text Formatting Application
 //
 //  Created by Riyuan Liu on 10/31/22.
 //
